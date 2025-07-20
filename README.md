@@ -36,10 +36,11 @@ Manual power control causes:
 ---
 
 
-## 📷 Preview
+## Product Architecture
 <img width="1237" height="681" alt="i2" src="https://github.com/user-attachments/assets/425712a5-1078-4cf6-8aa1-ff04175f49aa" />
-
-
+## Schematic & PCB
+<img width="970" height="647" alt="i3" src="https://github.com/user-attachments/assets/91e32d19-af63-444f-8118-ae831c092f61" />
+## Enclosure
 
 
 ---
@@ -53,6 +54,3 @@ Manual power control causes:
 
 ---
 
-## 📝 Docs
-
-- [Presentation (PDF)](docs/Tech_Falcons_presentation.pdf) ← *(Upload next)*
