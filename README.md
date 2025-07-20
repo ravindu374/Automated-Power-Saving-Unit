@@ -4,6 +4,7 @@ Smart energy-saving project using IR sensors and Arduino to control power automa
 
 A smart energy-saving system that automatically cuts power to unused appliances using IR-based occupancy detection. Built to reduce power wastage in homes, labs, and offices.
 
+<img width="1251" height="703" alt="i1" src="https://github.com/user-attachments/assets/7939cb2f-227d-4877-8380-6aefbf569124" />
 ---
 
 ## 📘 Problem Statement
@@ -37,7 +38,8 @@ Manual power control causes:
 
 ## 📷 Preview
 
-<img width="1087" height="773" alt="Micro controller BOX" src="https://github.com/user-attachments/assets/824b54f4-3ba7-465b-8258-901a882286af" />
+
+
 
 ---
 
