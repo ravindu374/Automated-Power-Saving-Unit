@@ -37,6 +37,7 @@ Manual power control causes:
 
 
 ## 📷 Preview
+<img width="1237" height="681" alt="i2" src="https://github.com/user-attachments/assets/425712a5-1078-4cf6-8aa1-ff04175f49aa" />
 
 
 
